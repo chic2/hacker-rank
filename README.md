@@ -44,9 +44,9 @@ As I continue solving more problems, this repository will grow and remain organi
 
 You can run any of the solutions using Python 3:
 
-```bash
+```bash``
 python problem-name.py
-
+``
 
 Example:
 
@@ -55,7 +55,8 @@ python A-Very-Big-Sum.py
 
 Make sure to provide any required input as per the HackerRank problem description.
 
-🧪 Example Problem: Palindrome Check
+---
+##🧪 Example Problem: Palindrome Check
 
 This is just a demonstration of how solutions are structured.
 
@@ -73,7 +74,8 @@ def is_palindrome(s):
 print(is_palindrome("level"))  # Output: True
 print(is_palindrome("hello"))  # Output: False
 
-🤝 Contributing
+---
+##🤝 Contributing
 
 Contributions are welcome!
 
@@ -89,18 +91,21 @@ Open a pull request
 
 Please read the full CONTRIBUTING.md
  before contributing.
-
-🛡️ Security
+ 
+---
+##🛡️ Security
 
 If you discover a security vulnerability, please review SECURITY.md
  for instructions on responsible disclosure.
 
-📄 License
+---
+##📄 License
 
 This project is licensed under the MIT License
 .
 
-📬 Contact
+---
+##📬 Contact
 
 Feel free to open an issue for suggestions or improvements. Pull requests are always welcome.
 
