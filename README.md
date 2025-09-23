@@ -76,7 +76,7 @@ print(is_palindrome("level"))  # Output: True
 print(is_palindrome("hello"))  # Output: False
 
 ---
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -94,19 +94,19 @@ Please read the full CONTRIBUTING.md
  before contributing.
  
 ---
-##🛡️ Security
+## 🛡️ Security
 
 If you discover a security vulnerability, please review SECURITY.md
  for instructions on responsible disclosure.
 
 ---
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License
 .
 
 ---
-##📬 Contact
+## 📬 Contact
 
 Feel free to open an issue for suggestions or improvements. Pull requests are always welcome.
 
