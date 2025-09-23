@@ -46,8 +46,8 @@ You can run any of the solutions using Python 3:
 
 ```
 bash
----
-``python problem-name.py``
+
+python problem-name.py
 ```
 
 Example:
