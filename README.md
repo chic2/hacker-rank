@@ -4,7 +4,7 @@ This repository contains my solutions to various algorithmic problems from [Hack
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [A-Very-Big-Sum.py](#A-Very-Big-Sum.py)
 - [Solutions](#solutions)
 - [Usage](#usage)
 - [Contributing](#contributing)
