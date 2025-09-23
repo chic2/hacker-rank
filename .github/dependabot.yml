@@ -5,7 +5,8 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  - package-ecosystem: "pip"  # Python packages
+    directory: "/"            # Location of your requirements.txt or Pipfile
     schedule:
       interval: "weekly"
+
