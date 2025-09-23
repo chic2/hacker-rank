@@ -4,10 +4,10 @@ This repository contains my solutions to various algorithmic problems from [Hack
 
 ## Table of Contents
 
-- [A-Very-Big-Sum.py](#A-Very-Big-Sum.py)
-- [Solutions](#solutions)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [A-Very-Big-Sum.py](#[A-Very-Big-Sum.py](https://github.com/chic2/hacker-rank/blob/main/A-Very-Big-Sum.py))
+- [Compare-the-Triplets.py ](#[solutions](https://github.com/chic2/hacker-rank/blob/main/Compare-the-Triplets.py))
+- [Diagonal-Difference](#[usage](https://github.com/chic2/hacker-rank/blob/main/Diagonal-Difference))
+- [solve-me-first.py](#[contributing](https://github.com/chic2/hacker-rank/blob/main/solve-me-first.py))
 - [License](#license)
 
 ## Project Overview
