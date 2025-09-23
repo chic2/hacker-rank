@@ -4,7 +4,6 @@
 This repository contains my Python solutions to various algorithmic problems from [HackerRank](https://www.hackerrank.com/). The problems span domains such as Data Structures, Algorithms, Sorting, and more. The goal is to improve problem-solving skills and share clean, readable code.
 
 ---
-
 ## 📚 Table of Contents
 
 - ✅ [Project Overview](#project-overview)
@@ -16,7 +15,6 @@ This repository contains my Python solutions to various algorithmic problems fro
 - 📬 [Contact](#contact)
 
 ---
-
 ## 🚀 Project Overview
 
 This repository is dedicated to showcasing my journey solving algorithm challenges on HackerRank using Python.
@@ -24,7 +22,6 @@ This repository is dedicated to showcasing my journey solving algorithm challeng
 As I continue solving more problems, this repository will grow and remain organized by problem domain or difficulty. All solutions are kept clean, efficient, and readable — with a focus on learning and sharing.
 
 ---
-
 ## 🧠 Solutions
 
 ### 🔹 Easy
@@ -39,7 +36,6 @@ As I continue solving more problems, this repository will grow and remain organi
 > ✅ More problems will be added regularly.
 
 ---
-
 ## 💻 Usage
 
 You can run any of the solutions using Python 3:
@@ -114,7 +110,6 @@ Feel free to open an issue for suggestions or improvements. Pull requests are al
 
 
 ---
-
 ### ✅ Next Steps:
 
 1. Open your repo on GitHub.
@@ -123,5 +118,3 @@ Feel free to open an issue for suggestions or improvements. Pull requests are al
 4. Commit the changes.
 
 Let me know if you'd like a version that separates problems by domain (like `/warmup/`, `/sorting/`, etc.) once you expand the project.
-
-Yo
