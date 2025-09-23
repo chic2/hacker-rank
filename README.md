@@ -44,9 +44,10 @@ As I continue solving more problems, this repository will grow and remain organi
 
 You can run any of the solutions using Python 3:
 
-```bash``
-python problem-name.py
-``
+```
+``bash``
+``python problem-name.py``
+```
 
 Example:
 
