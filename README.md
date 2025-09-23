@@ -6,7 +6,7 @@ This repository contains my solutions to various algorithmic problems from [Hack
 
 - [A-Very-Big-Sum.py](https://github.com/chic2/hacker-rank/blob/main/A-Very-Big-Sum.py)
 - [Compare-the-Triplets.py ](https://github.com/chic2/hacker-rank/blob/main/Compare-the-Triplets.py)
-- [Diagonal-Difference](https://github.com/chic2/hacker-rank/blob/main/Diagonal-Difference)
+- [Diagonal-Difference.py](https://github.com/chic2/hacker-rank/blob/main/Diagonal-Difference)
 - [solve-me-first.py](https://github.com/chic2/hacker-rank/blob/main/solve-me-first.py)
 - [License](#license)
 
