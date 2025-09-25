@@ -1,5 +1,5 @@
- ---
-## Hackathon!!!
+## 📣 Hackathon Status
 
-### Hackathon
-Am still solving it it quit difficult but do not worry i will solve it 
+I'm still solving the hackathon. It's quite difficult but don't worry — I'll get it done!
+
+👉 [View HACKATHON progress](./HACKATHON.md)
