@@ -118,7 +118,8 @@ Feel free to open an issue for suggestions or improvements. Pull requests are al
 4. Commit the changes.
 
 Let me know if you'd like a version that separates problems by domain (like `/warmup/`, `/sorting/`, etc.) once you expand the project.
- 
+
+ ---
 # Hackathon!!!
 
 ## Hackathon
