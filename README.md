@@ -4,7 +4,7 @@
 This repository contains my Python solutions to various algorithmic problems from [HackerRank](https://www.hackerrank.com/). The problems span domains such as Data Structures, Algorithms, Sorting, and more. The goal is to improve problem-solving skills and share clean, readable code.
 
 ---
-## 🚀 Hackathon Progress
+# 🚀 Hackathon Progress
 
 I'm currently working on the hackathon challenge. It's quite difficult, but don't worry — I will solve it!
 
